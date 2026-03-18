@@ -1,0 +1,101 @@
+
+
+
+.container-fluid{
+    background: linear-gradient(#5a1af1, #49a3ec);
+}
+.home :hover{
+    
+    background-color: rgb(223, 110, 110);
+    transition: all 1.5s;
+}
+
+.munkak :hover{
+    background-color: rgb(223, 110, 110);
+    transition: all 1.5s;
+    
+}
+.munkak :hover{
+    background-color: rgb(223, 110, 110);
+    transition: all 1.5s;
+}
+.link :hover{
+    background-color: rgb(223, 110, 110);
+    transition: all 1.5s;
+    
+}
+.elerhetoseg :hover{
+    background-color: rgb(223, 110, 110);
+    transition: all 1.5s;
+    
+}
+.elerhetoseg{
+    border-bottom: red 2px solid;
+    box-shadow: 4px 1px 4px rgb(240, 72, 72);
+}
+.tagok :hover{
+    background-color: rgb(223, 110, 110);
+    transition: all 1.5s;
+}
+
+.contact {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f9f9f9;
+}
+
+.contact h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.contact-details, .contact-form {
+    max-width: 600px;
+    margin: 0 auto 40px;
+}
+
+.contact-details ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+.contact-details li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.contact-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-form label {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.contact-form input, .contact-form textarea {
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.contact-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background-color: #555;
+}
+h1{
+    text-align: center;
+}
